@@ -1,5 +1,6 @@
 # mars-fault-detection
 
+```
 ├── data
 │   ├── 1_Upload_Raw_Data_to_GCP.ipynb
 │   └── 2_Data_Transfer_GCP_to_EE.ipynb
@@ -11,6 +12,7 @@
 └── notebooks
     ├── Data_Visualisation_EE.ipynb
     └── Data_Visualisation_GCP.ipynb
+```
 
 Earth Engine folder structure:
 - mars
